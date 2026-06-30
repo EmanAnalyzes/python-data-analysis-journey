@@ -1,0 +1,4 @@
+current_age=2026
+date_of_birth= int(input("enter your date of birth"))
+age = current_age - date_of_birth
+print(age)
